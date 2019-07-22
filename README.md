@@ -1,6 +1,6 @@
 hello-world
 ===========
 
-just another github repository
+Test
 
 #3
